@@ -14,6 +14,7 @@ Designed using **PIC16F876A**, **LM317**, **7805**, **7809**, and **7812** volta
 - Controlled by **PIC16F876A**
 - Simulated in Proteus
 - MikroC PRO for PIC source code included
+- Updated new PCB View using new software
 
 ---
 
